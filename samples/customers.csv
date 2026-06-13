@@ -1,0 +1,26 @@
+Customer Id,First Name,Last Name,Company,City,Country,Phone 1,Phone 2,Email,Subscription Date,Website,salary
+C001,Alice,Johnson,Acme Corp,New York,USA,+1-800-555-0101,+1-800-555-0202,alice.johnson@acmecorp.com,2023-01-15,https://acmecorp.com,$75000
+C002,Bob,Smith,Globex,Los Angeles,USA,+1-800-555-0103,,bob.smith@globex.com,2023-02-20,https://globex.com,$82000
+C003,Charlie,Brown,Initech,Chicago,USA,+1-800-555-0104,+1-800-555-0205,charlie.brown@initech.com,2023-03-10,https://initech.com,
+C004,  Diana  ,Prince,WayneEnterprises,Gotham,USA,+1-800-555-0105,,diana.prince@wayne.com,2023-04-05,https://wayne.com,$91000
+C005,Ethan,Hunt,IMF,Washington,USA,+1-800-555-0106,+1-800-555-0207,ethan.hunt@imf.gov,2023-05-18,https://imf.gov,$68000
+C006,Fiona,Green,Umbrella,Seattle,USA,+1-800-555-0107,,fiona.green@umbrella.com,2023-06-22,https://umbrella.com,$54000
+C007,George,Clark,Oscorp,New York,USA,+1-800-555-0108,+1-800-555-0209,george.clark@oscorp.com,2023-07-30,https://oscorp.com,$77000
+C008,Hannah,Lee,Stark Industries,San Francisco,USA,+1-800-555-0109,,hannah.lee@stark.com,2023-08-14,https://stark.com,$110000
+C009,Ivan,Drago,Massive Dynamic,Boston,USA,+1-800-555-0110,+1-800-555-0211,ivan.drago@massive.com,2023-09-01,https://massive.com,
+C010,Julia,Roberts,Weyland Corp,Austin,USA,+1-800-555-0111,,julia.roberts@weyland.com,2023-10-19,https://weyland.com,$63000
+C011,Kevin,Hart,Pied Piper,San Jose,USA,+1-800-555-0112,+1-800-555-0213,kevin.hart@piedpiper.com,2023-11-25,https://piedpiper.com,$58000
+C012,Laura,Croft,Lara Corp,London,UK,+44-20-5550-0113,,laura.croft@lara.com,2023-12-03,https://laracorp.com,$87000
+C013,Mike,Ross,Pearson Specter,New York,USA,+1-800-555-0114,+1-800-555-0215,mike.ross@pearsonspecter.com,2024-01-07,https://pearsonspecter.com,
+C014,Nancy,Drew,Mystery Inc,Riverdale,USA,+1-800-555-0115,,nancy.drew@mystery.com,2024-02-14,https://mysteryinc.com,$45000
+C015,Oscar,Wilde,Creative Ltd,Dublin,Irland,+353-1-555-0116,+353-1-555-0217,oscar.wilde@creative.com,2024-03-21,https://creativeltd.com,$72000
+C016,Paula,Abdul,Dance Co,Los Angeles,USA,+1-800-555-0117,,paula.abdul@danceco.com,2024-04-09,https://danceco.com,$61000
+C017,Quinn,Adams,QA Solutions,Boston,USA,+1-800-555-0118,+1-800-555-0219,quinn.adams@qasolutions.com,2024-05-16,https://qasolutions.com,
+C018,Rachel,Green,Central Perk,New York,USA,+1-800-555-0119,,rachel.green@centralperk.com,2024-06-23,https://centralperk.com,$48000
+C019,Steve,Rogers,Shield Inc,Washington,USA,+1-800-555-0120,+1-800-555-0221,steve.rogers@shield.gov,2024-07-04,https://shield.gov,$95000
+C020,Tina,Turner,Music Corp,Nashville,USA,+1-800-555-0121,,tina.turner@musiccorp.com,2024-08-11,https://musiccorp.com,$83000
+C021,Uma,Thurman,Kill Bill LLC,Los Angeles,USA,+1-800-555-0122,+1-800-555-0223,uma.thurman@killbill.com,2024-09-28,https://killbill.com,
+C022,Victor,Hugo,Literary Works,Paris,Frace,+33-1-5550-0123,,victor.hugo@literary.com,2024-10-15,https://literary.com,$56000
+C023,Alice,Johnson,Acme Corp,New York,USA,+1-800-555-0101,+1-800-555-0202,alice.johnson@acmecorp.com,2023-01-15,https://acmecorp.com,$75000
+C024,  Diana  ,Prince,WayneEnterprises,Gotham,USA,+1-800-555-0105,,diana.prince@wayne.com,2023-04-05,https://wayne.com,$91000
+C025,Wendy,Williams,Talk Show Inc,New York,USA,+1-800-555-0124,+1-800-555-0225,wendy.williams@talkshow.com,2024-11-30,https://talkshow.com,$74000

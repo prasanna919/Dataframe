@@ -1,0 +1,12 @@
+
+CSV CLEANING REPORT
+
+Rows Before: 4
+Rows After: 3
+
+Duplicates Found: 1
+
+Output File:
+output/cleaned.csv
+
+Status: SUCCESS
