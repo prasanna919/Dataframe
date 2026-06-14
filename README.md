@@ -21,13 +21,26 @@ All team member resumes are available in the `/resumes` folder.
 
 ---
 
-## Project Overview
+# Project Overview
 
 The Clean DataFrame Agent is an AI-assisted data cleaning solution designed to process real-world CSV datasets. The system profiles datasets, recommends cleaning operations, applies user-approved transformations, and generates cleaned outputs along with summary reports.
 
 ---
 
-## Repository Structure
+# Features
+
+* Automated CSV Profiling
+* Missing Value Detection
+* Duplicate Record Identification
+* Data Type Validation
+* Data Cleaning Recommendations
+* User Confirmation Workflow
+* Clean CSV Export
+* Summary Report Generation
+
+---
+
+# Repository Structure
 
 ```text
 Dataframe/
@@ -76,54 +89,72 @@ Dataframe/
 
 ---
 
-## Features
-
-* Automated CSV Profiling
-* Missing Value Detection
-* Duplicate Record Identification
-* Data Type Validation
-* Data Cleaning Recommendations
-* User Confirmation Workflow
-* Clean CSV Export
-* Summary Report Generation
-
----
-
-## Setup Instructions
-
-### Prerequisites
+# Prerequisites
 
 * Python 3.10+
 * pip
+* Node.js
+* npm
 
-### Installation
+---
+
+# Installation
 
 ```bash
-git clone <repository-url>
-cd Clean_Dataframe
+git clone https://github.com/prasanna919/Dataframe.git
+cd Dataframe
 pip install -r requirements.txt
 ```
 
 ---
 
-## Run Instructions
-
-Execute the application using:
+# Running the Backend
 
 ```bash
 python main.py
 ```
 
-Follow the prompts to:
+---
 
-1. Upload or select a CSV file.
-2. Review profiling results.
-3. Approve recommended cleaning actions.
-4. Generate cleaned output and reports.
+# Running the Frontend
+
+Navigate to the frontend folder:
+
+```bash
+cd frontend
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the React application:
+
+```bash
+npm start
+```
+
+Open your browser and visit:
+
+```text
+http://localhost:3000
+```
 
 ---
 
-## Architecture Overview
+# Workflow
+
+1. Upload or select a CSV file.
+2. Review dataset profiling results.
+3. Approve recommended cleaning actions.
+4. Generate cleaned CSV output.
+5. Download the summary report.
+
+---
+
+# Architecture Overview
 
 ```text
 Input CSV
@@ -146,7 +177,7 @@ Clean CSV + Summary Report
 
 ---
 
-## Assumptions
+# Assumptions
 
 * Input data is provided in CSV format.
 * Users review and approve cleaning recommendations.
@@ -154,11 +185,11 @@ Clean CSV + Summary Report
 
 ---
 
-## Limitations
+# Limitations
 
 * Supports CSV files only.
-* Extremely large datasets may require additional optimization.
-* Cleaning recommendations are rule-based and may require user verification.
+* Extremely large datasets may require optimization.
+* Cleaning recommendations are rule-based and require user verification.
 
 ---
 
@@ -166,23 +197,25 @@ Clean CSV + Summary Report
 
 ## 1. Public GitHub Repository
 
+Repository Link:
+
+https://github.com/prasanna919/Dataframe
+
+### Includes
+
 * Complete source code
 * Clean commit history
 * Project documentation
 
-Repository Link:
-
-> https://github.com/prasanna919/Dataframe
-
-
+---
 
 ## 2. Demo Video (5–7 Minutes)
 
-Video Demonstration:
+Video Link:
 
-> https://drive.google.com/file/d/12UoYyVoaXqqZiwzuus4H7kOWR20P3n2R/view?usp=sharing
+https://drive.google.com/file/d/12UoYyVoaXqqZiwzuus4H7kOWR20P3n2R/view?usp=sharing
 
-The demo should cover:
+### Demonstrates
 
 * Project introduction
 * Dataset upload
@@ -195,10 +228,10 @@ The demo should cover:
 
 ## 3. AI Usage Note
 
-Document available in:
+Location:
 
 ```text
-/docs/AI_Usage_Note.pdf
+/reports/AI_Usage_Note.pdf
 ```
 
 Contents:
@@ -210,7 +243,7 @@ Contents:
 
 ---
 
-## 4. Sample Data Folder
+## 4. Sample Data
 
 Location:
 
@@ -234,30 +267,32 @@ Location:
 / test_cases
 ```
 
-Includes:
-
-* Happy Path Tests
-* Input Validation Tests
-* Data Cleaning Verification Tests
-
 Run tests using:
 
 ```bash
 pytest
 ```
 
+Includes:
+
+* Happy Path Tests
+* Input Validation Tests
+* Data Cleaning Verification Tests
+
 ---
 
-## Technology Stack
+# Technology Stack
 
 * Python
 * Pandas
 * NumPy
+* React.js
 * Pytest
-* Git & GitHub
+* Git
+* GitHub
 
 ---
 
-## License
+# License
 
 This project is developed for academic and placement evaluation purposes.
