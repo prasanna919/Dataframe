@@ -139,7 +139,7 @@ npm start
 Open your browser and visit:
 
 ```text
-http://localhost:3000
+(http://localhost:3000/)
 ```
 
 ---
