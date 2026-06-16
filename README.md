@@ -138,9 +138,11 @@ npm start
 
 Open your browser and visit:
 
-```text
-http://localhost:3000/
+```link
+ http://localhost:3000
+
 ```
+
 
 ---
 
