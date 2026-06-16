@@ -141,7 +141,7 @@ Open your browser and visit:
 ```link
  http://localhost:3000
 ```
-Live app is https://eight-singers-march.loca.lt
+
 
 ---
 
