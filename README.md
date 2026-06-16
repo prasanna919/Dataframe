@@ -140,7 +140,6 @@ Open your browser and visit:
 
 ```link
  http://localhost:3000
-
 ```
 
 
