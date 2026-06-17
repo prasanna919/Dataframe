@@ -93,7 +93,7 @@ Dataframe/
 
 * Python 3.10+
 * pip
-* Node.js
+* React.js
 * npm
 
 ---
